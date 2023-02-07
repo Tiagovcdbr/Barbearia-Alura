@@ -5,6 +5,9 @@ Projeto disponibilizado pela Alura na trilha de HTML e CSS
 
 ## Confira abaixo algumas imagens do projeto.
 
+### Link do Deploy
+https://barbearia-alura-project.netlify.app/
+
 ![print1](https://user-images.githubusercontent.com/78483210/217274779-cada5c9c-120f-4a2b-9ec7-d68e6ae514b0.png)
 
 ![print2](https://user-images.githubusercontent.com/78483210/217274791-309ac1a9-4eba-4024-93fc-912596b9d6b1.png)
